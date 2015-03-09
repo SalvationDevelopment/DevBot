@@ -1,0 +1,16 @@
+E:\GitHub\DevBotAI\DevBot\bin\Debug\DevBot.exe.config
+E:\GitHub\DevBotAI\DevBot\obj\x86\Debug\DevBot.csprojResolveAssemblyReference.cache
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\cards.cdb
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\ChaosDragon.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\DamageBurn.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\Dragunity.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\Frog.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\Horus.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\OldSchool.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Content\Decks\SUPAROBO-X.ydk
+E:\GitHub\DevBotAI\DevBot\bin\Debug\DevBot.exe
+E:\GitHub\DevBotAI\DevBot\bin\Debug\DevBot.pdb
+E:\GitHub\DevBotAI\DevBot\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\DevBotAI\DevBot\bin\Debug\System.Data.SQLite.dll
+E:\GitHub\DevBotAI\DevBot\obj\x86\Debug\DevBot.exe
+E:\GitHub\DevBotAI\DevBot\obj\x86\Debug\DevBot.pdb
